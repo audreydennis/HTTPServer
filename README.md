@@ -26,7 +26,7 @@ You don't have to read the whole RFC, but you do need to understand the followin
 
 -Your application should support at least two MIME types.
 
-2.POST Links to an external site.(2 pts): 
+2. POST Links to an external site.(2 pts): 
 
 - append the body of the request to the resource
 
