@@ -1,7 +1,7 @@
 # HTTPServer
 
 Creating an HTTP Server
-For this assignment, you will be building your own HTTP server that implements HTTP/1.1 (RFC2616)Links to an external site.!
+For this assignment, you will be building your own HTTP server that implements HTTP/1.1 (RFC2616).!
 
 You don't have to read the whole RFC, but you do need to understand the following:
 
