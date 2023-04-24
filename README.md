@@ -5,26 +5,26 @@ For this assignment, you will be building your own HTTP server that implements H
 
 You don't have to read the whole RFC, but you do need to understand the following:
 
--HTTP Message Structure
+- HTTP Message Structure
 
--HTTP Request-Line and Status-Line
+- HTTP Request-Line and Status-Line
 
--HTTP Methods
+- HTTP Methods
 
--HTTP Headers (Content-Type and Content-Length)
+- HTTP Headers (Content-Type and Content-Length)
 
--MIME Types
+- MIME Types
 
--Status Codes
+- Status Codes
 
 ## 
 1. GET (2 pts): retrieve static file resource requested
 
--Make sure Content-Type is correct.
+- Make sure Content-Type is correct.
 
--Make sure Content-Length is correct.
+- Make sure Content-Length is correct.
 
--Your application should support at least two MIME types.
+- Your application should support at least two MIME types.
 
 2. POST Links to an external site.(2 pts): 
 
